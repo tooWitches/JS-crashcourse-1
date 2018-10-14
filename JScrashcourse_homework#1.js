@@ -17,7 +17,7 @@ var User = class {
 
     attendWith (friends, event){
         event.company.push(friends)
-        this.attend
+        attend(event)
     }
 
     befriend (friend) {
