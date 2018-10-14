@@ -87,8 +87,8 @@ var buyPresent = new ToDo("buy present for toni", "17.12.2018", "ask jonna if sh
 var callDentist = new ToDo("call the dentist for check-up", "11.12.2018", "last visit was in May!")
 
 //events
-var jSCrashcourse = new Event("JS crashcourse", "17.10.2018", "18:30", "eurostaff", "WTM Berlin", "", "definetely", "do homework!")
-var documentary = new Event ("documentary", "4.11.2018", "20:00", "cinema", "", "", "definetely", "buy 2 tickets!")
+var jSCrashcourse = new Event("JS crashcourse", "17.10.2018", "18:30", "eurostaff", "WTM Berlin", "", "definitely", "do homework!")
+var documentary = new Event ("documentary", "4.11.2018", "20:00", "cinema", "", "", "definitely", "buy 2 tickets!")
 
 console.log(sarah)
 
